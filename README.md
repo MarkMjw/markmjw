@@ -6,4 +6,3 @@
 - 🌱 I’m currently learning Flutter & FFmpeg
 - 📙 Focusing on Kotlin & Android
 - 🔨 Creator of applications and frameworks
-- 📫 How to reach me: [Email](xiangmao6@hotmail.com)
