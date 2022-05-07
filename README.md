@@ -3,6 +3,6 @@
 ### 你好，世界 👋
 
 - 🔭 I’m currently working on [绿洲](https://play.google.com/store/apps/details?id=com.sina.oasis) Weibo Chengdu R&D Center
-- 🌱 I’m currently learning Flutter & FFmpeg
+- 🌱 I’m currently learning Jetpack Compose & Flutter
 - 📙 Focusing on Kotlin & Android
 - 🔨 Creator of applications and frameworks
